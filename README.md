@@ -14,4 +14,4 @@ visualization, machine learning, and process automation.
 [![GitHub](https://img.shields.io/github/followers/tmstauss.svg?label=GitHub&style=social)](https://github.com/tmstauss)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--blueviolet.svg?style=social&logo=linkedin)](https://linkedin.com/in/tanner-stauss)
 [![Twitter](https://img.shields.io/twitter/follow/Tanner_Stauss?label=Twitter&style=social)](https://twitter.com/Tanner_Stauss)
-[![Website](https://img.shields.io/badge/Webpage-Personal-blue)](https://tannerstauss.netlify.app/)
+[![Website](https://img.shields.io/badge/Webpage-Personal-blue)](https://tannerstauss.com)
