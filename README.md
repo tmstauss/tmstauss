@@ -8,9 +8,9 @@ I am currently the Data Science Manager at [doTERRA
 Int.](https://www.doterra.com/US/en) where I manage a team of data
 scientists working on a host of interesting business problems, applying
 many data science and analytics techniques, such as advanced
-forecasting, recommendation systems, statistical analysis, data
-visualization, machine learning, process automation, and web application
-development.
+forecasting, recommendation systems, statistical analysis, natural
+language processing, data visualization, machine learning, process
+automation, and web application development.
 
 [![GitHub](https://img.shields.io/github/followers/tmstauss.svg?label=GitHub&style=social)](https://github.com/tmstauss)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--blueviolet.svg?style=social&logo=linkedin)](https://linkedin.com/in/tanner-stauss)
